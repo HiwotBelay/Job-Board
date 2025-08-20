@@ -2,7 +2,7 @@
 
 This project is a complete **Job Listing Web Application**, built independently to demonstrate initiative, creativity, and full-stack development skills.
 
-> 🚀 I took the lead and built this system from scratch — it was not assigned, just me taking action to bring value.
+> 🚀 I took the lead and built this system from scratch — it was not assigned, just me taking action to bring 
 
 ---
 
