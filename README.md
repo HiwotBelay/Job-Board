@@ -11,7 +11,7 @@ This project is a complete **Job Listing Web Application**, built independently 
 - ✅ **Job Listings Page**  
   - Search jobs by keyword,
   - Filter by type, location, or category,  
-  - Sort by relevance or latest
+  - Sort by relevance or latest,
 
 - ✅ **Job Detail View**  
   - Full job descriptions  
