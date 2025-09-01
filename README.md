@@ -9,7 +9,7 @@ This project is a complete **Job Listing Web Application**, built independently 
 ## 🌟 Features
 
 - ✅ **Job Listings Page**  
-  - Search jobs by keyword  
+  - Search jobs by keyword,
   - Filter by type, location, or category  
   - Sort by relevance or latest
 
