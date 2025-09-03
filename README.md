@@ -14,7 +14,7 @@ This project is a complete **Job Listing Web Application**, built independently 
   - Sort by relevance or latest.
 
 - ✅ **Job Detail View**  
-  - Full job descriptions  
+  - Full job descriptions,  
   - Requirements and qualifications displayed
 
 - ✅ **CRUD for Job Posts**  
