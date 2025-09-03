@@ -21,7 +21,7 @@ This project is a complete **Job Listing Web Application**, built independently 
   - Admin functionality to Create, Edit, Delete job listings.
 
 - ✅ **Apply with CV**  
-  - Secure CV/resume file upload system
+  - Secure CV/resume file upload system.
 
 - ✅ **Save Jobs (Wishlist)**  
   - Logged-in users can save jobs they’re interested in
