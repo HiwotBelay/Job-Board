@@ -24,7 +24,7 @@ This project is a complete **Job Listing Web Application**, built independently 
   - Secure CV/resume file upload system.
 
 - ✅ **Save Jobs (Wishlist)**  
-  - Logged-in users can save jobs they’re interested in
+  - Logged-in users can save jobs they’re interested in.
 
 ---
 
