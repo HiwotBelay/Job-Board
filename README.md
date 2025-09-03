@@ -30,7 +30,7 @@ This project is a complete **Job Listing Web Application**, built independently 
 
 ## 🎨 Front-End Design
 
-- Built using **Laravel Blade views**  
+- Built using **Laravel Blade views**,
 - Styled with **Tailwind CSS via CDN**  
 - Fully responsive with modern, clean UI  
 - Emphasis on user experience, intuitive navigation, and smooth interactivity
