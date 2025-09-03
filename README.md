@@ -18,7 +18,7 @@ This project is a complete **Job Listing Web Application**, built independently 
   - Requirements and qualifications displayed.
 
 - ✅ **CRUD for Job Posts**  
-  - Admin functionality to Create, Edit, Delete job listings
+  - Admin functionality to Create, Edit, Delete job listings.
 
 - ✅ **Apply with CV**  
   - Secure CV/resume file upload system
